@@ -13,6 +13,7 @@
 </details>
 <details>
   <summary> <b>[ 📉 ] Static-Profile</summary><br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoPowerTech&show_icons=true&theme=gruvbox)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoPowerTech&langs_count=10&layout=compact&theme=gruvbox)
 
