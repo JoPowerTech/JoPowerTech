@@ -46,7 +46,7 @@
  <br>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=social&logo=Telegram)](https://t.me/JoPowerTech) <br>
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=social&logo=Twitter)](https://twitter.com/NearShelby?s=09) <br>
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=social&logo=Twitter)](https://twitter.com/JoPowerTech?s=09) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=social&logo=GitHub)](https://github.com/JoPowerTech)  <br>
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=social&logo=YouTube)](https://youtube.com/channel/UCvfhcJHqcDfnl5ukzKCFpog)
 
