@@ -5,26 +5,26 @@
 
 <p align="center">
 	
-# Jo Power Tech
+    # Jo Power Tech
 
-<details>
-<br>
+    <details>
+    <br>
 
-  <summary> <b> [ 🙍‍♂️ ] About Me </summary>
+      <summary> <b> [ 🙍‍♂️ ] About Me </summary>
 
-  > Hello, my name is Jo, I am 16 years old and I love programming and web hacking, recently I am studying JavaScrit and web hacking.
-</details>
-<details>
-  <summary> <b>[ 📉 ] Static-Profile</summary><br>
+      > Hello, my name is Jo, I am 16 years old and I love programming and web hacking, recently I am studying JavaScrit and web hacking.
+    </details>
+    <details>
+    <summary> <b>[ 📉 ] Static-Profile</summary><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoPowerTech&show_icons=true&theme=gruvbox)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoPowerTech&langs_count=10&layout=compact&theme=gruvbox)
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoPowerTech&show_icons=true&theme=gruvbox)
+    ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoPowerTech&langs_count=10&layout=compact&theme=gruvbox)
 
- </details>
-<details>
-  <summary> <b>[ 🌜 ] My Skill </summary>
+    </details>
+    <details>
+    <summary> <b>[ 🌜 ] My Skill </summary>
     
-<h3>Operating Systems</h3>
+    <h3>Operating Systems</h3>
 		<center>
 			<img alt="Android" src="https://img.shields.io/badge/Google-Android-3DDC84?style=for-the-badge&logo=Android"><br>
 			<img alt="Linux" src="https://img.shields.io/badge/GNU-Linux-FCC624?style=for-the-badge&logo=Linux"><br>
