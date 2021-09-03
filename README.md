@@ -9,7 +9,7 @@
 
   <summary> <b> [ 🙍‍♂️ ] About Me </summary>
 
-  > Hello, my name is Jo, I am 16 years old and I love programming and web hacking, recently I am studying JavaScrit and web hacking.
+  > Hello, my name is Jo, I love programming and web hacking, recently I am studying JS and web hacking.
 </details>
 <details>
   <summary> <b>[ 📉 ] Static-Profile</summary><br>
